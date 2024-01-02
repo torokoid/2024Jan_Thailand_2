@@ -132,42 +132,31 @@ p.note { display: none; }
 
 <br><br><p>以下写真集！</p>
 <p>普段は大渋滞のバンコク市内ですが、1月1日は空いてます</p>
-<a href="20240101_001.JPG" data-lightbox="abc"><img src="20240101_001.JPG" alt="サンプル画像" width="900" /></a>
-<p>中心部のショッピングモールで見かけた、テスラのEV</p>
-<a href="20240101_002.JPG" data-lightbox="abc"><img src="20240101_002.JPG" alt="サンプル画像" width="900" /></a>
-<p>ショッピングモールの中に入っている車のデーラー</p>
-<a href="20240101_003.JPG" data-lightbox="abc"><img src="20240101_003.JPG" alt="サンプル画像" width="900" /></a>
-<p>超巨大で迷子になりそう</p>
-<a href="20240101_004.JPG" data-lightbox="abc"><img src="20240101_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240101_005.JPG" data-lightbox="abc"><img src="20240101_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240101_006.JPG" data-lightbox="abc"><img src="20240101_006.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240101_007.JPG" data-lightbox="abc"><img src="20240101_007.JPG" alt="サンプル画像" width="900" /></a>
-
-<a href="20240101_008.JPG" data-lightbox="abc"><img src="20240101_008.JPG" alt="サンプル画像" width="900" /></a>
-<p>いかにも南国風の果実「カヌン」、初めて食べると味のキツさに負けるかも・・・</p>
-<a href="20240101_009.JPG" data-lightbox="abc"><img src="20240101_009.JPG" alt="サンプル画像" width="900" /></a>
-
-<a href="20240101_010.JPG" data-lightbox="abc"><img src="20240101_010.JPG" alt="サンプル画像" width="900" /></a>
-<p>タイに来たのにお昼は「かつや」</p>
-<a href="20240101_015.JPG" data-lightbox="abc"><img src="20240101_015.JPG" alt="サンプル画像" width="900" /></a>
-<p>まずは、メインディッシュ登場</p>
-<a href="20240101_012.JPG" data-lightbox="abc"><img src="20240101_012.JPG" alt="サンプル画像" width="900" /></a>
-<p>一拍遅れて味噌汁も出ます</p>
-<a href="20240101_013.JPG" data-lightbox="abc"><img src="20240101_013.JPG" alt="サンプル画像" width="900" /></a>
-<p>お会計は224バーツ ≒ ¥900</p>
-<a href="20240101_011.JPG" data-lightbox="abc"><img src="20240101_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_001.JPG" data-lightbox="abc"><img src="20240102_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_002.JPG" data-lightbox="abc"><img src="20240102_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_003.JPG" data-lightbox="abc"><img src="20240102_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_004.JPG" data-lightbox="abc"><img src="20240102_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_005.JPG" data-lightbox="abc"><img src="20240102_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_006.JPG" data-lightbox="abc"><img src="20240102_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_007.JPG" data-lightbox="abc"><img src="20240102_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_008.JPG" data-lightbox="abc"><img src="20240102_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_009.JPG" data-lightbox="abc"><img src="20240102_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_010.JPG" data-lightbox="abc"><img src="20240102_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_011.JPG" data-lightbox="abc"><img src="20240102_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_012.JPG" data-lightbox="abc"><img src="20240102_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_013.JPG" data-lightbox="abc"><img src="20240102_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_014.JPG" data-lightbox="abc"><img src="20240102_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_015.JPG" data-lightbox="abc"><img src="20240102_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_016.JPG" data-lightbox="abc"><img src="20240102_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_017.JPG" data-lightbox="abc"><img src="20240102_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_018.JPG" data-lightbox="abc"><img src="20240102_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_019.JPG" data-lightbox="abc"><img src="20240102_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_020.JPG" data-lightbox="abc"><img src="20240102_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_021.JPG" data-lightbox="abc"><img src="20240102_021.JPG" alt="サンプル画像" width="900" /></a>
 <p>スーパーのうなぎは399バーツ ≒ ¥1600</p>
-<a href="20240101_014.JPG" data-lightbox="abc"><img src="20240101_014.JPG" alt="サンプル画像" width="900" /></a>
 
 
 <br><br>
-<p>以下パタヤビーチのレストラン生演奏動画集</p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/79X3-LVpDfg?si=Evdxj3LMxi0OgVP-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XCMEwoaAJak?si=XCjXRDxSJ1w6anBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nwDzsqZ_PUk?si=cxsYELnrSNY-XT0H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br><br><br><br><br><br>
 
