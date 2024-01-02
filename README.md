@@ -139,27 +139,40 @@ p.note { display: none; }
 <a href="20240102_022.JPG" data-lightbox="abc"><img src="20240102_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240102_023.JPG" data-lightbox="abc"><img src="20240102_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240102_024.JPG" data-lightbox="abc"><img src="20240102_024.JPG" alt="サンプル画像" width="900" /></a>
-
+<p>セブンイレブンの前は池ですが、ハスの花が咲きそうです。</p>
 <a href="20240102_003.JPG" data-lightbox="abc"><img src="20240102_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240102_004.JPG" data-lightbox="abc"><img src="20240102_004.JPG" alt="サンプル画像" width="900" /></a>
+<p>ちなみにセブンイレブン買い物すると、IDカードフォルダが漏れなくもらえました。</p>
 <a href="20240102_005.JPG" data-lightbox="abc"><img src="20240102_005.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20240102_006.JPG" data-lightbox="abc"><img src="20240102_006.JPG" alt="サンプル画像" width="450" /></a>
+<p>高速道路の看板は目的地までの距離ですが、全く読めません。</p>
 <a href="20240102_007.JPG" data-lightbox="abc"><img src="20240102_007.JPG" alt="サンプル画像" width="900" /></a>
+<p>前のトラック、タイヤがはみ出てますが、合法です。</p>
 <a href="20240102_008.JPG" data-lightbox="abc"><img src="20240102_008.JPG" alt="サンプル画像" width="900" /></a>
+<p>リゾートマンションにお邪魔して、プールをお借りします。</p>
 <a href="20240102_010.JPG" data-lightbox="abc"><img src="20240102_010.JPG" alt="サンプル画像" width="900" /></a>
+<p>プールの中は完全に欧米、おそらくロシア人がほとんどと思われます。</p>
 <a href="20240102_009.JPG" data-lightbox="abc"><img src="20240102_009.JPG" alt="サンプル画像" width="900" /></a>
+<p>お昼はマックで軽く済ませます。</p>
 <a href="20240102_011.JPG" data-lightbox="abc"><img src="20240102_011.JPG" alt="サンプル画像" width="900" /></a>
+<p>お値段はあまり軽くありませんね〜249バーツ ≒ 約1000円。</p>
 <a href="20240102_012.JPG" data-lightbox="abc"><img src="20240102_012.JPG" alt="サンプル画像" width="900" /></a>
+<p>帰りの高速道路から見えた夕陽が綺麗でした。</p>
 <a href="20240102_013.JPG" data-lightbox="abc"><img src="20240102_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240102_014.JPG" data-lightbox="abc"><img src="20240102_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240102_015.JPG" data-lightbox="abc"><img src="20240102_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240102_016.JPG" data-lightbox="abc"><img src="20240102_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240102_017.JPG" data-lightbox="abc"><img src="20240102_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240102_018.JPG" data-lightbox="abc"><img src="20240102_018.JPG" alt="サンプル画像" width="900" /></a>
+<p>お正月はタイの高速道路は無料開放されてました。<br>料金所通過時に緑の文字でFreeと見えます・・・見えないか？</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eJzk80w6Uzc?si=v-YCtNul0yarkRQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p>ちなみにタイの守衛所の散らかり具合・・・どこもこんな感じ。</p>
 <a href="20240102_019.JPG" data-lightbox="abc"><img src="20240102_019.JPG" alt="サンプル画像" width="900" /></a>
+<p>若い守衛さんたちはスマホいじりに専念中。</p>
 <a href="20240102_020.JPG" data-lightbox="abc"><img src="20240102_020.JPG" alt="サンプル画像" width="900" /></a>
+<p>最後に今年のカレンダーですが、仏暦2567年、西暦は2024年ですね〜ブッダがキリストより543歳年上なのです。</p>
 <a href="20240102_021.JPG" data-lightbox="abc"><img src="20240102_021.JPG" alt="サンプル画像" width="900" /></a>
-<p>スーパーのうなぎは399バーツ ≒ ¥1600</p>
+
 
 
 <br><br>
