@@ -131,17 +131,23 @@ p.note { display: none; }
 
 
 <br><br><p>以下写真集！</p>
-<p>普段は大渋滞のバンコク市内ですが、1月1日は空いてます</p>
+<p>1月2日はバンコクからパタヤまでお出かけしました。</p>
 <a href="20240102_001.JPG" data-lightbox="abc"><img src="20240102_001.JPG" alt="サンプル画像" width="900" /></a>
+<p>出発前の食事はセブンイレブン。</p>
 <a href="20240102_002.JPG" data-lightbox="abc"><img src="20240102_002.JPG" alt="サンプル画像" width="900" /></a>
+<p>タイのセブンイレブン値段感覚、バーツの値札 x 4倍で日本円です。</p>
+<a href="20240102_022.JPG" data-lightbox="abc"><img src="20240102_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_023.JPG" data-lightbox="abc"><img src="20240102_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_024.JPG" data-lightbox="abc"><img src="20240102_024.JPG" alt="サンプル画像" width="900" /></a>
+
 <a href="20240102_003.JPG" data-lightbox="abc"><img src="20240102_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240102_004.JPG" data-lightbox="abc"><img src="20240102_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240102_005.JPG" data-lightbox="abc"><img src="20240102_005.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20240102_006.JPG" data-lightbox="abc"><img src="20240102_006.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20240102_007.JPG" data-lightbox="abc"><img src="20240102_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240102_008.JPG" data-lightbox="abc"><img src="20240102_008.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240102_009.JPG" data-lightbox="abc"><img src="20240102_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240102_010.JPG" data-lightbox="abc"><img src="20240102_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_009.JPG" data-lightbox="abc"><img src="20240102_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240102_011.JPG" data-lightbox="abc"><img src="20240102_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240102_012.JPG" data-lightbox="abc"><img src="20240102_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240102_013.JPG" data-lightbox="abc"><img src="20240102_013.JPG" alt="サンプル画像" width="900" /></a>
