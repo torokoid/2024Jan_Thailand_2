@@ -191,7 +191,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-Copyright 2024/01/02 S.Hada
+<p>Copyright 2024/01/02 S.Hada</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
