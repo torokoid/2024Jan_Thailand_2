@@ -151,7 +151,7 @@ p.note { display: none; }
 <a href="20240102_008.JPG" data-lightbox="abc"><img src="20240102_008.JPG" alt="サンプル画像" width="900" /></a>
 <p>リゾートマンションにお邪魔して、プールをお借りします。</p>
 <a href="20240102_010.JPG" data-lightbox="abc"><img src="20240102_010.JPG" alt="サンプル画像" width="900" /></a>
-<p>プールの中は完全に欧米、おそらくロシア人がほとんどと思われます。</p>
+<p>プールの中は完全に欧米、おそらくロシア人がほとんどと思われます。<br>東洋人は一人だけ確認できました。</p>
 <a href="20240102_009.JPG" data-lightbox="abc"><img src="20240102_009.JPG" alt="サンプル画像" width="900" /></a>
 <p>お昼はマックで軽く済ませます。</p>
 <a href="20240102_011.JPG" data-lightbox="abc"><img src="20240102_011.JPG" alt="サンプル画像" width="900" /></a>
