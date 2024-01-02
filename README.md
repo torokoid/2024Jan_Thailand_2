@@ -125,6 +125,8 @@ p.note { display: none; }
 <div style="background-color:rgb(255,255,255,0.5);">
 <p class="topicpath"><a href="https://torokoid.github.io/2024Jan_Thailand/">Thailand</a>>Thailand_2</p></div>
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <!--ここから下が、本体部分-->
 <br><p>タイ旅行</p>
 
