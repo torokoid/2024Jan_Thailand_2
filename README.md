@@ -136,8 +136,8 @@ p.note { display: none; }
 <a href="20240102_002.JPG" data-lightbox="abc"><img src="20240102_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240102_003.JPG" data-lightbox="abc"><img src="20240102_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240102_004.JPG" data-lightbox="abc"><img src="20240102_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240102_005.JPG" data-lightbox="abc"><img src="20240102_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240102_006.JPG" data-lightbox="abc"><img src="20240102_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240102_005.JPG" data-lightbox="abc"><img src="20240102_005.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20240102_006.JPG" data-lightbox="abc"><img src="20240102_006.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20240102_007.JPG" data-lightbox="abc"><img src="20240102_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240102_008.JPG" data-lightbox="abc"><img src="20240102_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240102_009.JPG" data-lightbox="abc"><img src="20240102_009.JPG" alt="サンプル画像" width="900" /></a>
