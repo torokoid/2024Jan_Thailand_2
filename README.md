@@ -147,7 +147,7 @@ p.note { display: none; }
 <p>ちなみにセブンイレブン買い物すると、IDカードフォルダが漏れなくもらえました。</p>
 <a href="20240102_005.JPG" data-lightbox="abc"><img src="20240102_005.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20240102_006.JPG" data-lightbox="abc"><img src="20240102_006.JPG" alt="サンプル画像" width="450" /></a>
-<p>高速道路の看板は目的地までの距離ですが、全く読めません。</p>
+<p>高速道路の看板は目的地までの所要時間（分）ですが、全く読めません。</p>
 <a href="20240102_007.JPG" data-lightbox="abc"><img src="20240102_007.JPG" alt="サンプル画像" width="900" /></a>
 <p>前のトラック、タイヤがはみ出てますが、合法です。</p>
 <a href="20240102_008.JPG" data-lightbox="abc"><img src="20240102_008.JPG" alt="サンプル画像" width="900" /></a>
